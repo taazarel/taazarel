@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+# Certificates
+[![Boot.dev Learn Memory Management in C certificate](https://api.boot.dev/v1/static/certificate/ba08f5ff-dd65-41e2-a5a7-fc03771be8db)](https://www.boot.dev/certificates/ba08f5ff-dd65-41e2-a5a7-fc03771be8db)
 <!--
 **taazarel/taazarel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
